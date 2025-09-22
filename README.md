@@ -1,1 +1,4 @@
-# jello67.github.ioadventure
+# jello67.github.io.adventure
+My Project is called Adventure, and it is a survival game with a theme of being lost in the wilderness. I made my project to make a fun game where players could see if they could survive being lost in the wilderness and be able to survive or not. I made my project using JavaScript and HTML mainly and incorporated buttons and linked them to result in different outcomes. I struggled with bugs that just wouldn't solve, it was as if once I fixed a bug, another much more longer bug took its place. The outcomes I wanted to happen after the user selected a certain prompt took much time to configure. I learned how to put a background image in the game and being able to cause different outcomes to happen.
+
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
